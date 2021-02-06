@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/rango.iml" filepath="$PROJECT_DIR$/.idea/rango.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/2nd_Year/Web_Apps/tango_with_django_2_code/.idea/tango_with_django_2_code.iml" filepath="$USER_HOME$/Documents/2nd_Year/Web_Apps/tango_with_django_2_code/.idea/tango_with_django_2_code.iml" />
+    </modules>
+  </component>
+</project>
